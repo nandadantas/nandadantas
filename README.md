@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandadantas
 - 👀 I’m interested in  Quality Assurance
  - 🌱 I’m currently learning  testes, automação, metodologias ágeis e qualidade em geral
-- 💞️ Estagiando na Serasa  Experian com  Canais Digitais (Web/App)
+- 💞️ Estagiária na Serasa Experian em Canais Digitais (Web/App)
 - 📫 nanda.dantas@br.experian.com
